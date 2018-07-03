@@ -2051,10 +2051,10 @@ Vnum     300
 Name     A Cheap Hotel~
 Sector   city~
 Flags    nomob indoors safe hotel~
-Desc     This old hotel looks to be relatively safe if not clean. The rates are
-cheap anyways. The walls are made of a synthetic wood material and the
-floor is covered in a dirty brown carpet. Behind an old fashioned desk is
-an assortmant of keycards sealed behind a more modern energy shield.  
+Desc     This cheap hotel looks safe, surrounded by the busy streets of Coruscant.
+What one could have once considered to be the wallpaper of the institution, is now
+long since faded into a near unrecognizable state. One could rent a room here, if
+they dare to brave what lies ahead.
 
 This would be a good place to rest for a while. You may quit and renter
 the game from here.
@@ -2076,12 +2076,11 @@ ToRoom    301
 Vnum     301
 Name     Before Menari Spaceport~
 Sector   city~
-Desc     You stand at a street corner in Government City (also known as Imperial
-City). The enormous city covers almost all of the planet Coruscant. The
-street is suspended high above the ground as is dwarfed on all sides by
-massive skyscrapers. Looking over the high railing at the edge of the road
-you can see other similar streets many stories bellow and several more up
-above. All around the city is bustling with activity.    
+Desc     You stand before the illlustrious Menari Spaceport, the pride of
+the Imperial City. The distinct sound of speeders flying by and shuttles 
+passing overhead would shake the foundation of any newcomer. The bustling
+metropolis sprawls across nearly the entirety of the planet. Towers of
+buildings fill the outline of the sky, nearly blocking it.
 ~
 #EXIT
 Direction north~
